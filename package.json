@@ -1,0 +1,14 @@
+{
+    "name":             "hello",
+    "version":          "0.0.0",
+    "description":      "Hello World Application for Container-Based Deployment",
+    "license":          "MIT",
+    "repository":       "http://github.com/rse/hello",
+    "main":             "hello.js",
+    "private":          true,
+    "dependencies": {
+        "@hapi/hapi":   "*",
+        "yargs":        "*",
+        "nunjucks":     "*"
+    }
+}

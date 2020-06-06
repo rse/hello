@@ -1,2 +1,6 @@
-# cbd-hello
-Container-Based Deployment (CBD) Hello World Sample Application
+
+# hello
+
+Hello World Sample Application for showing
+Container-Based Deployment (CBD).
+
