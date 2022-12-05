@@ -7,7 +7,7 @@
     "main":             "hello.js",
     "private":          true,
     "dependencies": {
-        "@hapi/hapi":   "*",
+        "@hapi/hapi":   "20.*",
         "yargs":        "*",
         "nunjucks":     "*"
     }
