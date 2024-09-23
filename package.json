@@ -9,6 +9,6 @@
     "dependencies": {
         "@hapi/hapi":   "20.2.2",
         "yargs":        "17.6.2",
-        "nunjucks":     "3.2.3"
+        "nunjucks":     "3.2.4"
     }
 }
