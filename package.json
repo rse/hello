@@ -7,8 +7,8 @@
     "main":             "hello.js",
     "private":          true,
     "dependencies": {
-        "@hapi/hapi":   "*",
-        "yargs":        "*",
-        "nunjucks":     "*"
+        "@hapi/hapi":   "20.2.2",
+        "yargs":        "17.6.2",
+        "nunjucks":     "3.2.3"
     }
 }
